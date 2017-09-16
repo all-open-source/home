@@ -1,0 +1,17 @@
+html, body {
+  font-family: 'Courrier', monospace;
+  color: rgb(228, 228, 220);
+  background: rgb(40, 42, 54);
+  overflow: hidden;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.green { color: #5af78e; }
+.red { color: #ff6e67; }
+.yellow { color: #f4f99d; }
+.purple { color: #caa9fa; }
+.pink { color: #ff92d0; }
+.cyan { color: #9aedfe; }
+.comment { color: rgb(98, 104, 164);  } /**/
